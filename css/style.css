@@ -1,0 +1,94 @@
+*root {
+  box-sizing: border-box;
+}
+.nav-link:active {
+  color: blueviolet;
+}
+.nav-link:visited {
+  color: darkgoldenrod;
+}
+.nav-link:hover {
+  color: rgb(135, 78, 4);
+}
+.menu:active {
+  color: blue;
+}
+menu:visited {
+  color: rgb(135, 78, 4);
+}
+menu:hover {
+  color: rgba(226, 169, 23, 0.889);
+}
+body {
+  font-family: "Raleway", "Roboto", sans-serif;
+}
+h1 {
+  color: rgb(238, 238, 243);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-negro {
+  background-image: url(../images/Bg.png);
+  padding: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 32px;
+  background-color: blueviolet;
+  text-decoration: none;3
+}
+h2 {
+  color: blueviolet;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  color: darkblue;
+  background-color: burlywood;
+}
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.pag-header {
+  display: flex;
+
+  padding: 20px;
+  margin: 10px;
+  background-color: #d0d0cb;
+  justify-content: space-between;
+}
+.nav-link {
+  list-style: none;
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: flex-start;
+  margin-right: 10px;
+  justify-content: space-between;
+}
+.card {
+  background: rgb(237, 237, 250);
+  width: 400px;
+  height: 350px;
+  align-items: stretch;
+}
