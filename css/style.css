@@ -389,3 +389,18 @@ body {
   align-items: center;
   fill: #212121;
 }
+.instagram {
+  display: inline;
+  width: 2.4px;
+  height: 2.4px;
+  top: 3.46px;
+  left: 14.18px;
+  position: relative;
+  left: 70.89%;
+  right: 17.11%;
+  top: 17.31%;
+  bottom: 70.7%;
+
+  background: #ffffff;
+  fill: #ffffff;
+}
