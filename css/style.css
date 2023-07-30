@@ -522,3 +522,16 @@ left: 33p;x
 
 
 }
+
+.base{
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  list-style-type: none;
+  width: 206px;
+height: 44px;
+top: 2787px;
+left: 516px;
+
+}
