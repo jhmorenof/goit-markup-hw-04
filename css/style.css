@@ -389,23 +389,26 @@ body {
   align-items: center;
   fill: #212121;
 }
+/* nuestro equipo*/
 
 .enlaces-redes{
-display: flex;
-justify-content: center;
-flex-wrap: nowrap;
-align-items: center;
+
 width: 206px;
 height: 44px;
 top: 2139px;
 left: 247px;
-margin: auto;
+margin: 0;
+
 
 
 }
 
 .redes-list{
-  list-style-type: none;
+  display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
   margin: 0;
   padding: 0;
 
@@ -437,24 +440,42 @@ margin-right: 10px;
 .twitter {
 
 width: 20px;
-height: 16.25px;
-top: 1.88px;
+height: 20px;
+top: 12px;
+left: 12px;
 margin-right: 10px;
 }
 
 .face{
-width: 44px;
-height: 44px;
-top: 2139px;
-left: 355px;
+width: 20px;
+height: 20px;
+top: 12px;
+left: 12px;
 margin-right: 10px;
 }
 
 .linke{
-width: 44px;
-height: 44px;
-top: 2139px;
-left: 409px;
+width: 20px;
+height: 20px;
+top: 12px;
+left: 12px;
 margin-right: 10px;
+
+}
+.client-reg{
+  width: 1170px;
+height: 162px;
+top: 2366px;
+left: 215px;
+border-radius: 4px;
+
+}
+.text-creg{
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
 
 }
