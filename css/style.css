@@ -404,7 +404,7 @@ margin: 0;
 }
 
 .redes-list{
-  display: flex;
+display: flex;
 justify-content: center;
 flex-wrap: nowrap;
 align-items: center;
@@ -462,8 +462,10 @@ left: 12px;
 margin-right: 10px;
 
 }
+
+/* clientes regulares*/
 .client-reg{
-  width: 1170px;
+width: 1170px;
 height: 162px;
 top: 2366px;
 left: 215px;
@@ -477,5 +479,46 @@ font-weight: 700;
 line-height: 42px;
 letter-spacing: 0.03em;
 text-align: center;
+
+}
+
+.client-reg-list{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 170px;
+height: 81px;
+top: 2447px;
+left: 215px;
+border-radius: 4px;
+border: 1px;
+background: #eeeef1;
+border: 1px solid #AFB1B8;
+
+}
+.client-reg-item{
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  list-style-type: none;
+width: 106px;
+height: 52.83;px
+top: 2461.09px;
+left: 247px;
+
+
+}
+.cli-1{
+width: 4opx;
+height: 51px;
+top: 3px;
+left: 33p;x
+
+
 
 }
