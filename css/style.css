@@ -343,7 +343,7 @@ body {
   position: relative;
   height: 66.96px;
   width: 70px;
-  border-radius: 6px;it
+  border-radius: 6px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -389,23 +389,72 @@ body {
   align-items: center;
   fill: #212121;
 }
-.instagram {
-  display: inline;
-  width: 2.4px;
-  height: 2.4px;
-  top: 3.46px;
-  left: 14.18px;
-  position: relative;
-  left: 70.89%;
-  right: 17.11%;
-  top: 17.31%;
-  bottom: 70.7%;
 
-  background: #ffffff;
-  fill: #ffffff;
+.enlaces-redes{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+width: 206px;
+height: 44px;
+top: 2139px;
+left: 247px;
+margin: auto;
+
+
 }
+
+.redes-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.redes-item{
+
+width: 20px;
+height: 20px;
+top: 12px;
+left: 12px;
+margin: auto;
+list-style-type: none;
+text-decoration: none;
+text-decoration: none;
+
+}
+
+
+.instagram {
+width: 20px;
+height: 20px;
+top: 12px;
+left: 12px;
+margin-right: 10px;
+
+}
+
 .twitter {
-  width: 20px;
-  height: 16.25px;
-  top: 1.88px;
+
+width: 20px;
+height: 16.25px;
+top: 1.88px;
+margin-right: 10px;
+}
+
+.face{
+width: 44px;
+height: 44px;
+top: 2139px;
+left: 355px;
+margin-right: 10px;
+}
+
+.linke{
+width: 44px;
+height: 44px;
+top: 2139px;
+left: 409px;
+margin-right: 10px;
+
 }
