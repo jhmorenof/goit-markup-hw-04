@@ -409,7 +409,7 @@ justify-content: center;
 flex-wrap: nowrap;
 align-items: center;
 list-style-type: none;
-  margin: 0;
+margin: auto;
   padding: 0;
 
 }
@@ -596,6 +596,8 @@ justify-content: center;
 flex-wrap: nowrap;
 align-items: center;
 list-style-type: none;
+flex-direction: column;
+margin: auto;
 width: 206px;
 height: 44px;
 top: 2787px;
