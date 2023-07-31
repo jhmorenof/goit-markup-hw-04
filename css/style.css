@@ -511,17 +511,84 @@ height: 52.83;px
 top: 2461.09px;
 left: 247px;
 
-
 }
 .cli-1{
-width: 4opx;
-height: 51px;
-top: 3px;
-left: 33p;x
-
-
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  list-style-type: none;
+width: 41px;
+height: 46.7px;
+top: 7px;
+left: 32px;
 
 }
+.cli-2{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+width: 40px;
+height: 52px;
+top: 3px;
+left: 33p;
+}
+
+.cli-3{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+width: 43.46px;
+height: 41.1px;
+top: 8.7px;
+left: 29.68px;
+
+}
+
+.cli-4{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+
+width: 84.44px;
+height: 40.6px;
+top: 8.7px;3
+left: 11px;
+
+}
+
+.cli-5{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+
+width: 62.54px;
+height: 45.4px;
+top: 6.77px;
+left: 22px;
+
+}
+.cli-6{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+list-style-type: none;
+width: 93.79px;
+height: 43.93px;
+top: 6.77px;
+left: 6px;
+
+}
+
 
 .base{
   display: flex;
