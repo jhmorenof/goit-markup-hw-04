@@ -42,6 +42,7 @@ body {
 .fl-nav {
   display: flex;
   margin: auto;
+  align-items: center;
 }
 .hero {
   background-color: #2f303a;
@@ -296,9 +297,9 @@ body {
 
 /* svg*/
 .sobre {
-  width: 16px;
+  width: 26px;
   height: 12px;
-  fill: #2196f3;
+  fill: #757575;
 }
 
 .cel {
@@ -308,7 +309,10 @@ body {
 }
 
 /*rectangulos*/
-.rectangulo-01 {
+.rectangulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 270px;
   height: 120px;
   top: 769px;
@@ -319,17 +323,15 @@ body {
   border-radius: 4px;
 }
 .antena {
-  position: relative;
-  height: 120px;
-  width: auto;
+  
+  height: 70px;
+  width: 70px;
   border-radius: 4px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
   fill: #212121;
 }
 
-.rectangulo-02 {
+/*.rectangulo-02 {
   width: 270px;
   height: 120px;
   top: 769px;
@@ -338,7 +340,7 @@ body {
   fill: #f5f4fa;
   background: #f5f4fa;
   border-radius: 4px;
-}
+}*/
 .reloj {
   position: relative;
   height: 66.96px;
@@ -349,7 +351,7 @@ body {
   align-items: center;
   fill: #212121;
 }
-.rectangulo-03 {
+/*.rectangulo-03 {
   width: 270px;
   height: 120px;
   top: 769px;
@@ -357,7 +359,7 @@ body {
   border-radius: 4px;
   fill: #f5f4fa;
   background: #f5f4fa;
-}
+}*/
 .diagram {
   position: relative;
   height: 66.96px;
@@ -369,7 +371,7 @@ body {
   fill: #212121;
 }
 
-.rectangulo-04 {
+/*.rectangulo-04 {
   width: 270px;
   height: 120px;
   top: 769px;
@@ -378,7 +380,7 @@ body {
   fill: #f5f4fa;
   background: #f5f4fa;
 }
-
+*/
 .astronauta {
   position: relative;
   height: 66.96px;
