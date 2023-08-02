@@ -391,7 +391,7 @@ body {
   align-items: center;
   fill: #212121;
 }
-/* nuestro equipo*/
+/* nuestro equipo redes sociales*/
 
 .enlaces-redes{
 
@@ -400,9 +400,6 @@ height: 44px;
 top: 2139px;
 left: 247px;
 margin: 0;
-
-
-
 }
 
 .redes-list{
@@ -413,7 +410,6 @@ align-items: center;
 list-style-type: none;
 margin: auto;
 padding: 0;
-
 }
 
 .redes-item{
